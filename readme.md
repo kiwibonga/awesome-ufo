@@ -5,24 +5,40 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Sighting Reports](#sighting-reports)
+- [Blogs](#blogs)
+- [Podcasts](#podcasts)
+- [Youtube Channels](#youtube-channels)
+- [Software and Tools](#software-and-tools)
+
+## Sighting Reports
 
 
-## Section
+- [NUFORC](http://nuforc.org)
+- [MUFON](https://www.mufon.com/)
 
-About this section. Optional. Keep this short and focus on the list.
+
+## Blogs
+
 
 - [List item](http://example.com)
-- [List item](http://example.com)
 
 
-## Another Section
+## Podcasts
 
-### Subsection
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [UNKNOWN](https://www.stitcher.com/podcast/rogue-planet/ufo-modpod)
+- [Podcast UFO](https://www.stitcher.com/podcast/antique-auction-forum/podcast-ufo-podcast-feed)
+- [UFO Garage](https://www.spreaker.com/show/ufo-garage)
+
+## Youtube Channels
+
+- [The Basement Office](https://www.youtube.com/playlist?list=PLwNrNqsuwF1n43wh5nuV5hTFrdAN00kfk)
+- [Mystery Wire](https://www.youtube.com/channel/UCnF47ixgYcCQnu7IMit3A0g)
+- [Post Disclosure World](https://www.youtube.com/postdisclosureworld)
+
+## Software and Tools
+- [Flux UFO/UAP Search](https://flux.nibbleshift.com) - UFO/UAP Document Search Engine
 
 
 ## Contribute

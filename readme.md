@@ -49,6 +49,11 @@
 - [Flux UFO/UAP Search](https://flux.nibbleshift.com) - UFO/UAP Document Search Engine
 
 
+## Reddit Communities
+
+
+- [/r/UFO](https://www.reddit.com/r/UFO)
+
 
 ## Facebook groups
 

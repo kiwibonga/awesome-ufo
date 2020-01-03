@@ -22,8 +22,6 @@
 ## Blogs
 
 
-- [List item](http://example.com)
-
 
 ## Podcasts
 

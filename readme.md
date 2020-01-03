@@ -10,6 +10,7 @@
 - [Podcasts](#podcasts)
 - [Youtube Channels](#youtube-channels)
 - [Software and Tools](#software-and-tools)
+- [Facebook Groups](#facebook-groups)
 
 ## Sighting Reports
 
@@ -31,14 +32,26 @@
 - [Podcast UFO](https://www.stitcher.com/podcast/antique-auction-forum/podcast-ufo-podcast-feed)
 - [UFO Garage](https://www.spreaker.com/show/ufo-garage)
 
+
 ## Youtube Channels
+
 
 - [The Basement Office](https://www.youtube.com/playlist?list=PLwNrNqsuwF1n43wh5nuV5hTFrdAN00kfk)
 - [Mystery Wire](https://www.youtube.com/channel/UCnF47ixgYcCQnu7IMit3A0g)
 - [Post Disclosure World](https://www.youtube.com/postdisclosureworld)
 
+
 ## Software and Tools
+
+
 - [Flux UFO/UAP Search](https://flux.nibbleshift.com) - UFO/UAP Document Search Engine
+
+
+
+## Facebook groups
+
+
+- [The Paranormal Media](https://www.facebook.com/groups/TheParanormalMedia/)
 
 
 ## Contribute
